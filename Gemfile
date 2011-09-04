@@ -1,3 +1,3 @@
 source "http://rubygems.org"
 
-gem 'petit'
+gem 'petit', "~> 0.0.2"
