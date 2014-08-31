@@ -1,10 +1,12 @@
 # gregosuri.com
 root:   http://gregosuri.com
-about:  http://gregosuri.com
+about:  http://gregosuri.com/about
 
 # Projects
 petit:    https://github.com/gosuri/petit
 url-sub:  https://github.com/gosuri/git-url-sub
+vagrant-env:  http://gregosuri.com/gosuri/vagrant-env
+vagrant-env-intro: http://www.gregosuri.com/2014/08/31/introducing-vagrant-env-plugin
 
 # Scripts
 tm-full:      https://raw.github.com/gist/1147847/e4c5f298d7fd42aef07a4a78153a265731d547be/text-mate-full-screen.sh
